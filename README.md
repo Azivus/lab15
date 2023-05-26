@@ -1308,3 +1308,6 @@ lab15
     └──main.c
 ```
 ### **Скріншоти**
+![Program](https://github.com/Azivus/lab15/blob/main/Снимок%20экрана%20(3929).png)
+![Program](https://github.com/Azivus/lab15/blob/main/Снимок%20экрана%20(3930).png)
+![Program](https://github.com/Azivus/lab15/blob/main/Снимок%20экрана%20(3932).png)
